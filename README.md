@@ -19,7 +19,7 @@
     
 - DNS Client Events: Pour les événements côté client
 
-![[Windows-Event-Viewer-2.png]](Ressources/Windows-Event-Viewer-2.png)
+![[Windows-Event-Viewer-2.png]](Ressources-Windows-Event-Viewer-2.png)
 
 3. Événements critiques (ID principaux)
 
