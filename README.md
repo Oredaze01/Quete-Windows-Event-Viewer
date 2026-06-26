@@ -29,5 +29,8 @@
 - 501-502: Échec de chargement de zone
 - 6001-6002: Problèmes de réplication DNS
 
+
+J'ai ajouter les évènements critiques avec leurs numéros et séparés par des virgules dans la case "IDs"
+
 ![[Windows-Event-Viewer-3.png]](Ressources-Windows-Event-Viewer-3.png)
 
