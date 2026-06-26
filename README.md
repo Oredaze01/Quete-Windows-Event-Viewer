@@ -10,7 +10,7 @@
 - Information (4) - Pour les démarrages/arrêts
 
 
-![[Windows-Event-Viewer-1.png]](Ressources-Windows-Event-Viewer-1.png)
+![[Windows-Event-Viewer-1.png]](Ressources/Windows-Event-Viewer-1.png)
 
 
 2. Sources d'événements à inclure
@@ -19,7 +19,7 @@
     
 - DNS Client Events: Pour les événements côté client
 
-![[Windows-Event-Viewer-2.png]](Ressources-Windows-Event-Viewer-2.png)
+![[Windows-Event-Viewer-2.png]](Ressources/Windows-Event-Viewer-2.png)
 
 3. Événements critiques (ID principaux)
 
@@ -32,5 +32,5 @@
 
 J'ai ajouter les évènements critiques avec leurs numéros et séparés par des virgules dans la case "IDs"
 
-![[Windows-Event-Viewer-3.png]](Ressources-Windows-Event-Viewer-3.png)
+![[Windows-Event-Viewer-3.png]](Ressources/Windows-Event-Viewer-3.png)
 
